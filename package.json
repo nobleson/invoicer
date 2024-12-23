@@ -1,0 +1,18 @@
+{
+  "name": "invoicer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-html-to-pdf": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "pdfkit": "^0.15.2"
+  }
+}
